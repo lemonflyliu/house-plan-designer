@@ -4,7 +4,9 @@
 
 ## 在线预览
 
-直接打开 [`两室一厅-装修设计器.html`](./两室一厅-装修设计器.html)（在 GitHub 页面点击 Download raw 后本地打开；或 clone 本仓库后双击打开）。
+GitHub Pages 在线站点（打开即用）：<https://lemonflyliu.github.io/house-plan-designer/>
+
+也可以 clone 本仓库后双击 `index.html` 在浏览器离线打开。
 
 ## 户型概况
 
@@ -23,7 +25,7 @@
 
 | 文件 | 说明 |
 | --- | --- |
-| `两室一厅-装修设计器.html` | 主交付物，单文件交互式设计器（约 1.5 MB，底图已内嵌） |
+| `index.html` | 主交付物，单文件交互式设计器（约 1.5 MB，底图已内嵌，同时是 GitHub Pages 站点入口） |
 | `户型图.png` | 原始户型底图 |
 | `平面布置图.png` | 2D 彩色平面布置预览 |
 | `三维鸟瞰图.png` | 3D 鸟瞰预览 |
